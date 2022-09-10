@@ -1,0 +1,15 @@
+C:\HomeWork Csharp Operants\print the result of dividing two numbers\obj\Debug\net6.0\print the result of dividing two numbers.csproj.AssemblyReference.cache
+C:\HomeWork Csharp Operants\print the result of dividing two numbers\obj\Debug\net6.0\print the result of dividing two numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\HomeWork Csharp Operants\print the result of dividing two numbers\obj\Debug\net6.0\print the result of dividing two numbers.AssemblyInfoInputs.cache
+C:\HomeWork Csharp Operants\print the result of dividing two numbers\obj\Debug\net6.0\print the result of dividing two numbers.AssemblyInfo.cs
+C:\HomeWork Csharp Operants\print the result of dividing two numbers\obj\Debug\net6.0\print the result of dividing two numbers.csproj.CoreCompileInputs.cache
+C:\HomeWork Csharp Operants\print the result of dividing two numbers\bin\Debug\net6.0\print the result of dividing two numbers.exe
+C:\HomeWork Csharp Operants\print the result of dividing two numbers\bin\Debug\net6.0\print the result of dividing two numbers.deps.json
+C:\HomeWork Csharp Operants\print the result of dividing two numbers\bin\Debug\net6.0\print the result of dividing two numbers.runtimeconfig.json
+C:\HomeWork Csharp Operants\print the result of dividing two numbers\bin\Debug\net6.0\print the result of dividing two numbers.dll
+C:\HomeWork Csharp Operants\print the result of dividing two numbers\bin\Debug\net6.0\print the result of dividing two numbers.pdb
+C:\HomeWork Csharp Operants\print the result of dividing two numbers\obj\Debug\net6.0\print the result of dividing two numbers.dll
+C:\HomeWork Csharp Operants\print the result of dividing two numbers\obj\Debug\net6.0\refint\print the result of dividing two numbers.dll
+C:\HomeWork Csharp Operants\print the result of dividing two numbers\obj\Debug\net6.0\print the result of dividing two numbers.pdb
+C:\HomeWork Csharp Operants\print the result of dividing two numbers\obj\Debug\net6.0\print the result of dividing two numbers.genruntimeconfig.cache
+C:\HomeWork Csharp Operants\print the result of dividing two numbers\obj\Debug\net6.0\ref\print the result of dividing two numbers.dll

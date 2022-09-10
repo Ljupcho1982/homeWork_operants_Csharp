@@ -1,0 +1,15 @@
+C:\HomeWork Csharp Operants\print the result of the specified\bin\Debug\net6.0\print the result of the specified.exe
+C:\HomeWork Csharp Operants\print the result of the specified\bin\Debug\net6.0\print the result of the specified.deps.json
+C:\HomeWork Csharp Operants\print the result of the specified\bin\Debug\net6.0\print the result of the specified.runtimeconfig.json
+C:\HomeWork Csharp Operants\print the result of the specified\bin\Debug\net6.0\print the result of the specified.dll
+C:\HomeWork Csharp Operants\print the result of the specified\bin\Debug\net6.0\print the result of the specified.pdb
+C:\HomeWork Csharp Operants\print the result of the specified\obj\Debug\net6.0\print the result of the specified.csproj.AssemblyReference.cache
+C:\HomeWork Csharp Operants\print the result of the specified\obj\Debug\net6.0\print the result of the specified.GeneratedMSBuildEditorConfig.editorconfig
+C:\HomeWork Csharp Operants\print the result of the specified\obj\Debug\net6.0\print the result of the specified.AssemblyInfoInputs.cache
+C:\HomeWork Csharp Operants\print the result of the specified\obj\Debug\net6.0\print the result of the specified.AssemblyInfo.cs
+C:\HomeWork Csharp Operants\print the result of the specified\obj\Debug\net6.0\print the result of the specified.csproj.CoreCompileInputs.cache
+C:\HomeWork Csharp Operants\print the result of the specified\obj\Debug\net6.0\print the result of the specified.dll
+C:\HomeWork Csharp Operants\print the result of the specified\obj\Debug\net6.0\refint\print the result of the specified.dll
+C:\HomeWork Csharp Operants\print the result of the specified\obj\Debug\net6.0\print the result of the specified.pdb
+C:\HomeWork Csharp Operants\print the result of the specified\obj\Debug\net6.0\print the result of the specified.genruntimeconfig.cache
+C:\HomeWork Csharp Operants\print the result of the specified\obj\Debug\net6.0\ref\print the result of the specified.dll

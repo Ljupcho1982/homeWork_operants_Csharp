@@ -1,0 +1,5 @@
+C:\HomeWork Csharp Operants\HomeWork Csharp_operants\obj\Debug\net6.0\HomeWork Csharp_operants.csproj.AssemblyReference.cache
+C:\HomeWork Csharp Operants\HomeWork Csharp_operants\obj\Debug\net6.0\HomeWork Csharp_operants.GeneratedMSBuildEditorConfig.editorconfig
+C:\HomeWork Csharp Operants\HomeWork Csharp_operants\obj\Debug\net6.0\HomeWork Csharp_operants.AssemblyInfoInputs.cache
+C:\HomeWork Csharp Operants\HomeWork Csharp_operants\obj\Debug\net6.0\HomeWork Csharp_operants.AssemblyInfo.cs
+C:\HomeWork Csharp Operants\HomeWork Csharp_operants\obj\Debug\net6.0\HomeWork Csharp_operants.csproj.CoreCompileInputs.cache

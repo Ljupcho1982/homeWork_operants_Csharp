@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWork Csharp_operants", "HomeWork Csharp_operants.csproj", "{E84186BE-9773-4234-813C-C61420C32B0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "print the sum of two numbers.", "..\print the sum of two numbers\print the sum of two numbers..csproj", "{AAF98806-877B-44D1-8B69-0439CC6452EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "print the result of dividing two numbers", "..\print the result of dividing two numbers\print the result of dividing two numbers.csproj", "{63E71399-9723-4AEE-919F-9E6F2F15A001}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "print the result of the specified", "..\print the result of the specified\print the result of the specified.csproj", "{CCB945CF-3D0D-4CEC-B8FA-CC6622584E66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "swap_Numbers", "..\swap_Numbers\swap_Numbers.csproj", "{72AB33F0-FFE0-4E5D-AA3A-DF921FB38274}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E84186BE-9773-4234-813C-C61420C32B0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E84186BE-9773-4234-813C-C61420C32B0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E84186BE-9773-4234-813C-C61420C32B0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E84186BE-9773-4234-813C-C61420C32B0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAF98806-877B-44D1-8B69-0439CC6452EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAF98806-877B-44D1-8B69-0439CC6452EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAF98806-877B-44D1-8B69-0439CC6452EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAF98806-877B-44D1-8B69-0439CC6452EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63E71399-9723-4AEE-919F-9E6F2F15A001}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63E71399-9723-4AEE-919F-9E6F2F15A001}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63E71399-9723-4AEE-919F-9E6F2F15A001}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63E71399-9723-4AEE-919F-9E6F2F15A001}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCB945CF-3D0D-4CEC-B8FA-CC6622584E66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCB945CF-3D0D-4CEC-B8FA-CC6622584E66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCB945CF-3D0D-4CEC-B8FA-CC6622584E66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCB945CF-3D0D-4CEC-B8FA-CC6622584E66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72AB33F0-FFE0-4E5D-AA3A-DF921FB38274}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72AB33F0-FFE0-4E5D-AA3A-DF921FB38274}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72AB33F0-FFE0-4E5D-AA3A-DF921FB38274}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72AB33F0-FFE0-4E5D-AA3A-DF921FB38274}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F3A8999-B268-4E08-856F-DC837B7CBFF5}
+	EndGlobalSection
+EndGlobal

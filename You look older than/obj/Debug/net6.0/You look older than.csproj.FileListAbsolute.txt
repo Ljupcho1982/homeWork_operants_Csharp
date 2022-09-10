@@ -1,0 +1,15 @@
+C:\HomeWork Csharp Operants\You look older than\bin\Debug\net6.0\You look older than.exe
+C:\HomeWork Csharp Operants\You look older than\bin\Debug\net6.0\You look older than.deps.json
+C:\HomeWork Csharp Operants\You look older than\bin\Debug\net6.0\You look older than.runtimeconfig.json
+C:\HomeWork Csharp Operants\You look older than\bin\Debug\net6.0\You look older than.dll
+C:\HomeWork Csharp Operants\You look older than\bin\Debug\net6.0\You look older than.pdb
+C:\HomeWork Csharp Operants\You look older than\obj\Debug\net6.0\You look older than.csproj.AssemblyReference.cache
+C:\HomeWork Csharp Operants\You look older than\obj\Debug\net6.0\You look older than.GeneratedMSBuildEditorConfig.editorconfig
+C:\HomeWork Csharp Operants\You look older than\obj\Debug\net6.0\You look older than.AssemblyInfoInputs.cache
+C:\HomeWork Csharp Operants\You look older than\obj\Debug\net6.0\You look older than.AssemblyInfo.cs
+C:\HomeWork Csharp Operants\You look older than\obj\Debug\net6.0\You look older than.csproj.CoreCompileInputs.cache
+C:\HomeWork Csharp Operants\You look older than\obj\Debug\net6.0\You look older than.dll
+C:\HomeWork Csharp Operants\You look older than\obj\Debug\net6.0\refint\You look older than.dll
+C:\HomeWork Csharp Operants\You look older than\obj\Debug\net6.0\You look older than.pdb
+C:\HomeWork Csharp Operants\You look older than\obj\Debug\net6.0\You look older than.genruntimeconfig.cache
+C:\HomeWork Csharp Operants\You look older than\obj\Debug\net6.0\ref\You look older than.dll

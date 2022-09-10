@@ -1,0 +1,15 @@
+C:\HomeWork Csharp Operants\adding,subtracting, multiplying, and dividing two numbers\bin\Debug\net6.0\adding,subtracting, multiplying, and dividing two numbers.exe
+C:\HomeWork Csharp Operants\adding,subtracting, multiplying, and dividing two numbers\bin\Debug\net6.0\adding,subtracting, multiplying, and dividing two numbers.deps.json
+C:\HomeWork Csharp Operants\adding,subtracting, multiplying, and dividing two numbers\bin\Debug\net6.0\adding,subtracting, multiplying, and dividing two numbers.runtimeconfig.json
+C:\HomeWork Csharp Operants\adding,subtracting, multiplying, and dividing two numbers\bin\Debug\net6.0\adding,subtracting, multiplying, and dividing two numbers.dll
+C:\HomeWork Csharp Operants\adding,subtracting, multiplying, and dividing two numbers\bin\Debug\net6.0\adding,subtracting, multiplying, and dividing two numbers.pdb
+C:\HomeWork Csharp Operants\adding,subtracting, multiplying, and dividing two numbers\obj\Debug\net6.0\adding,subtracting, multiplying, and dividing two numbers.csproj.AssemblyReference.cache
+C:\HomeWork Csharp Operants\adding,subtracting, multiplying, and dividing two numbers\obj\Debug\net6.0\adding,subtracting, multiplying, and dividing two numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\HomeWork Csharp Operants\adding,subtracting, multiplying, and dividing two numbers\obj\Debug\net6.0\adding,subtracting, multiplying, and dividing two numbers.AssemblyInfoInputs.cache
+C:\HomeWork Csharp Operants\adding,subtracting, multiplying, and dividing two numbers\obj\Debug\net6.0\adding,subtracting, multiplying, and dividing two numbers.AssemblyInfo.cs
+C:\HomeWork Csharp Operants\adding,subtracting, multiplying, and dividing two numbers\obj\Debug\net6.0\adding,subtracting, multiplying, and dividing two numbers.csproj.CoreCompileInputs.cache
+C:\HomeWork Csharp Operants\adding,subtracting, multiplying, and dividing two numbers\obj\Debug\net6.0\adding,subtracting, multiplying, and dividing two numbers.dll
+C:\HomeWork Csharp Operants\adding,subtracting, multiplying, and dividing two numbers\obj\Debug\net6.0\refint\adding,subtracting, multiplying, and dividing two numbers.dll
+C:\HomeWork Csharp Operants\adding,subtracting, multiplying, and dividing two numbers\obj\Debug\net6.0\adding,subtracting, multiplying, and dividing two numbers.pdb
+C:\HomeWork Csharp Operants\adding,subtracting, multiplying, and dividing two numbers\obj\Debug\net6.0\adding,subtracting, multiplying, and dividing two numbers.genruntimeconfig.cache
+C:\HomeWork Csharp Operants\adding,subtracting, multiplying, and dividing two numbers\obj\Debug\net6.0\ref\adding,subtracting, multiplying, and dividing two numbers.dll

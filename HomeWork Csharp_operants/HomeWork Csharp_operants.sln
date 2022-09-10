@@ -3,15 +3,31 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32825.248
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWork Csharp_operants", "HomeWork Csharp_operants.csproj", "{E84186BE-9773-4234-813C-C61420C32B0E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeWork Csharp_operants", "HomeWork Csharp_operants.csproj", "{E84186BE-9773-4234-813C-C61420C32B0E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "print the sum of two numbers.", "..\print the sum of two numbers\print the sum of two numbers..csproj", "{AAF98806-877B-44D1-8B69-0439CC6452EF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "print the sum of two numbers.", "..\print the sum of two numbers\print the sum of two numbers..csproj", "{AAF98806-877B-44D1-8B69-0439CC6452EF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "print the result of dividing two numbers", "..\print the result of dividing two numbers\print the result of dividing two numbers.csproj", "{63E71399-9723-4AEE-919F-9E6F2F15A001}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "print the result of dividing two numbers", "..\print the result of dividing two numbers\print the result of dividing two numbers.csproj", "{63E71399-9723-4AEE-919F-9E6F2F15A001}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "print the result of the specified", "..\print the result of the specified\print the result of the specified.csproj", "{CCB945CF-3D0D-4CEC-B8FA-CC6622584E66}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "print the result of the specified", "..\print the result of the specified\print the result of the specified.csproj", "{CCB945CF-3D0D-4CEC-B8FA-CC6622584E66}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "swap_Numbers", "..\swap_Numbers\swap_Numbers.csproj", "{72AB33F0-FFE0-4E5D-AA3A-DF921FB38274}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "swap_Numbers", "..\swap_Numbers\swap_Numbers.csproj", "{72AB33F0-FFE0-4E5D-AA3A-DF921FB38274}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "multiplication of 3 numbers", "..\multiplication of 3 numbers\multiplication of 3 numbers.csproj", "{9AACD516-DF6D-4DF6-A1B9-EC32A576E2E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "adding,subtracting, multiplying, and dividing two numbers", "..\adding,subtracting, multiplying, and dividing two numbers\adding,subtracting, multiplying, and dividing two numbers.csproj", "{DE56DD0F-991E-457F-B6DF-31D0184ECD6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise 7 (Multiply from 0 to 10)", "..\Exercise 7 (Multiply from 0 to 10)\Exercise 7 (Multiply from 0 to 10).csproj", "{7FE569A7-8E4E-4EE1-B43E-5743CF567349}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Average of four numbers", "..\Average of four numbers\Average of four numbers.csproj", "{4FD97522-03C2-48A1-99C2-E502A3E09FC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "utput of (x+y).z and x.y + y.z.", "..\utput of (x+y).z and x.y + y.z\utput of (x+y).z and x.y + y.z..csproj", "{C0C2E43C-A72D-4A72-BBAB-AD7B00DC95C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "You look older than", "..\You look older than\You look older than.csproj", "{32962A12-7DF4-4222-A8FB-97C0C678262D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "numberInrowfourtimes", "..\numberInrowfourtimes\numberInrowfourtimes.csproj", "{E8939756-DAF9-47EF-AAC8-D9AB1864937B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "convertFromCelsiusToKelvinAndFarenhiet", "..\convertFromCelsiusToFarenheit\convertFromCelsiusToKelvinAndFarenhiet.csproj", "{7E76C506-628B-4555-90DF-2FF6E278FB59}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +55,38 @@ Global
 		{72AB33F0-FFE0-4E5D-AA3A-DF921FB38274}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{72AB33F0-FFE0-4E5D-AA3A-DF921FB38274}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{72AB33F0-FFE0-4E5D-AA3A-DF921FB38274}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AACD516-DF6D-4DF6-A1B9-EC32A576E2E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AACD516-DF6D-4DF6-A1B9-EC32A576E2E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AACD516-DF6D-4DF6-A1B9-EC32A576E2E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AACD516-DF6D-4DF6-A1B9-EC32A576E2E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE56DD0F-991E-457F-B6DF-31D0184ECD6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE56DD0F-991E-457F-B6DF-31D0184ECD6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE56DD0F-991E-457F-B6DF-31D0184ECD6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE56DD0F-991E-457F-B6DF-31D0184ECD6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FE569A7-8E4E-4EE1-B43E-5743CF567349}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FE569A7-8E4E-4EE1-B43E-5743CF567349}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FE569A7-8E4E-4EE1-B43E-5743CF567349}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FE569A7-8E4E-4EE1-B43E-5743CF567349}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FD97522-03C2-48A1-99C2-E502A3E09FC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FD97522-03C2-48A1-99C2-E502A3E09FC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FD97522-03C2-48A1-99C2-E502A3E09FC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FD97522-03C2-48A1-99C2-E502A3E09FC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0C2E43C-A72D-4A72-BBAB-AD7B00DC95C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0C2E43C-A72D-4A72-BBAB-AD7B00DC95C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0C2E43C-A72D-4A72-BBAB-AD7B00DC95C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0C2E43C-A72D-4A72-BBAB-AD7B00DC95C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32962A12-7DF4-4222-A8FB-97C0C678262D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32962A12-7DF4-4222-A8FB-97C0C678262D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32962A12-7DF4-4222-A8FB-97C0C678262D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32962A12-7DF4-4222-A8FB-97C0C678262D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8939756-DAF9-47EF-AAC8-D9AB1864937B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8939756-DAF9-47EF-AAC8-D9AB1864937B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8939756-DAF9-47EF-AAC8-D9AB1864937B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8939756-DAF9-47EF-AAC8-D9AB1864937B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E76C506-628B-4555-90DF-2FF6E278FB59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E76C506-628B-4555-90DF-2FF6E278FB59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E76C506-628B-4555-90DF-2FF6E278FB59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E76C506-628B-4555-90DF-2FF6E278FB59}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,15 @@
+C:\HomeWork Csharp Operants\utput of (x+y).z and x.y + y.z\obj\Debug\net6.0\utput of (x+y).z and x.y + y.z..csproj.AssemblyReference.cache
+C:\HomeWork Csharp Operants\utput of (x+y).z and x.y + y.z\obj\Debug\net6.0\utput of (x+y).z and x.y + y.z..GeneratedMSBuildEditorConfig.editorconfig
+C:\HomeWork Csharp Operants\utput of (x+y).z and x.y + y.z\obj\Debug\net6.0\utput of (x+y).z and x.y + y.z..AssemblyInfoInputs.cache
+C:\HomeWork Csharp Operants\utput of (x+y).z and x.y + y.z\obj\Debug\net6.0\utput of (x+y).z and x.y + y.z..AssemblyInfo.cs
+C:\HomeWork Csharp Operants\utput of (x+y).z and x.y + y.z\obj\Debug\net6.0\utput of (x+y).z and x.y + y.z..csproj.CoreCompileInputs.cache
+C:\HomeWork Csharp Operants\utput of (x+y).z and x.y + y.z\bin\Debug\net6.0\utput of (x+y).z and x.y + y.z..exe
+C:\HomeWork Csharp Operants\utput of (x+y).z and x.y + y.z\bin\Debug\net6.0\utput of (x+y).z and x.y + y.z..deps.json
+C:\HomeWork Csharp Operants\utput of (x+y).z and x.y + y.z\bin\Debug\net6.0\utput of (x+y).z and x.y + y.z..runtimeconfig.json
+C:\HomeWork Csharp Operants\utput of (x+y).z and x.y + y.z\bin\Debug\net6.0\utput of (x+y).z and x.y + y.z..dll
+C:\HomeWork Csharp Operants\utput of (x+y).z and x.y + y.z\bin\Debug\net6.0\utput of (x+y).z and x.y + y.z..pdb
+C:\HomeWork Csharp Operants\utput of (x+y).z and x.y + y.z\obj\Debug\net6.0\utput of (x+y).z and x.y + y.z..dll
+C:\HomeWork Csharp Operants\utput of (x+y).z and x.y + y.z\obj\Debug\net6.0\refint\utput of (x+y).z and x.y + y.z..dll
+C:\HomeWork Csharp Operants\utput of (x+y).z and x.y + y.z\obj\Debug\net6.0\utput of (x+y).z and x.y + y.z..pdb
+C:\HomeWork Csharp Operants\utput of (x+y).z and x.y + y.z\obj\Debug\net6.0\utput of (x+y).z and x.y + y.z..genruntimeconfig.cache
+C:\HomeWork Csharp Operants\utput of (x+y).z and x.y + y.z\obj\Debug\net6.0\ref\utput of (x+y).z and x.y + y.z..dll

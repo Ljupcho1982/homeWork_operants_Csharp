@@ -1,0 +1,15 @@
+C:\HomeWork Csharp Operants\multiplication of 3 numbers\bin\Debug\net6.0\multiplication of 3 numbers.exe
+C:\HomeWork Csharp Operants\multiplication of 3 numbers\bin\Debug\net6.0\multiplication of 3 numbers.deps.json
+C:\HomeWork Csharp Operants\multiplication of 3 numbers\bin\Debug\net6.0\multiplication of 3 numbers.runtimeconfig.json
+C:\HomeWork Csharp Operants\multiplication of 3 numbers\bin\Debug\net6.0\multiplication of 3 numbers.dll
+C:\HomeWork Csharp Operants\multiplication of 3 numbers\bin\Debug\net6.0\multiplication of 3 numbers.pdb
+C:\HomeWork Csharp Operants\multiplication of 3 numbers\obj\Debug\net6.0\multiplication of 3 numbers.csproj.AssemblyReference.cache
+C:\HomeWork Csharp Operants\multiplication of 3 numbers\obj\Debug\net6.0\multiplication of 3 numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\HomeWork Csharp Operants\multiplication of 3 numbers\obj\Debug\net6.0\multiplication of 3 numbers.AssemblyInfoInputs.cache
+C:\HomeWork Csharp Operants\multiplication of 3 numbers\obj\Debug\net6.0\multiplication of 3 numbers.AssemblyInfo.cs
+C:\HomeWork Csharp Operants\multiplication of 3 numbers\obj\Debug\net6.0\multiplication of 3 numbers.csproj.CoreCompileInputs.cache
+C:\HomeWork Csharp Operants\multiplication of 3 numbers\obj\Debug\net6.0\multiplication of 3 numbers.dll
+C:\HomeWork Csharp Operants\multiplication of 3 numbers\obj\Debug\net6.0\refint\multiplication of 3 numbers.dll
+C:\HomeWork Csharp Operants\multiplication of 3 numbers\obj\Debug\net6.0\multiplication of 3 numbers.pdb
+C:\HomeWork Csharp Operants\multiplication of 3 numbers\obj\Debug\net6.0\multiplication of 3 numbers.genruntimeconfig.cache
+C:\HomeWork Csharp Operants\multiplication of 3 numbers\obj\Debug\net6.0\ref\multiplication of 3 numbers.dll

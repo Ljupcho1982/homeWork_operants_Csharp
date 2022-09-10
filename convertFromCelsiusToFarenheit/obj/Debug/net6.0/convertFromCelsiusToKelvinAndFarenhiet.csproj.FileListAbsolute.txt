@@ -1,0 +1,15 @@
+C:\HomeWork Csharp Operants\convertFromCelsiusToFarenheit\obj\Debug\net6.0\convertFromCelsiusToKelvinAndFarenhiet.csproj.AssemblyReference.cache
+C:\HomeWork Csharp Operants\convertFromCelsiusToFarenheit\obj\Debug\net6.0\convertFromCelsiusToKelvinAndFarenhiet.GeneratedMSBuildEditorConfig.editorconfig
+C:\HomeWork Csharp Operants\convertFromCelsiusToFarenheit\obj\Debug\net6.0\convertFromCelsiusToKelvinAndFarenhiet.AssemblyInfoInputs.cache
+C:\HomeWork Csharp Operants\convertFromCelsiusToFarenheit\obj\Debug\net6.0\convertFromCelsiusToKelvinAndFarenhiet.AssemblyInfo.cs
+C:\HomeWork Csharp Operants\convertFromCelsiusToFarenheit\obj\Debug\net6.0\convertFromCelsiusToKelvinAndFarenhiet.csproj.CoreCompileInputs.cache
+C:\HomeWork Csharp Operants\convertFromCelsiusToFarenheit\bin\Debug\net6.0\convertFromCelsiusToKelvinAndFarenhiet.exe
+C:\HomeWork Csharp Operants\convertFromCelsiusToFarenheit\bin\Debug\net6.0\convertFromCelsiusToKelvinAndFarenhiet.deps.json
+C:\HomeWork Csharp Operants\convertFromCelsiusToFarenheit\bin\Debug\net6.0\convertFromCelsiusToKelvinAndFarenhiet.runtimeconfig.json
+C:\HomeWork Csharp Operants\convertFromCelsiusToFarenheit\bin\Debug\net6.0\convertFromCelsiusToKelvinAndFarenhiet.dll
+C:\HomeWork Csharp Operants\convertFromCelsiusToFarenheit\bin\Debug\net6.0\convertFromCelsiusToKelvinAndFarenhiet.pdb
+C:\HomeWork Csharp Operants\convertFromCelsiusToFarenheit\obj\Debug\net6.0\convertFromCelsiusToKelvinAndFarenhiet.dll
+C:\HomeWork Csharp Operants\convertFromCelsiusToFarenheit\obj\Debug\net6.0\refint\convertFromCelsiusToKelvinAndFarenhiet.dll
+C:\HomeWork Csharp Operants\convertFromCelsiusToFarenheit\obj\Debug\net6.0\convertFromCelsiusToKelvinAndFarenhiet.pdb
+C:\HomeWork Csharp Operants\convertFromCelsiusToFarenheit\obj\Debug\net6.0\convertFromCelsiusToKelvinAndFarenhiet.genruntimeconfig.cache
+C:\HomeWork Csharp Operants\convertFromCelsiusToFarenheit\obj\Debug\net6.0\ref\convertFromCelsiusToKelvinAndFarenhiet.dll

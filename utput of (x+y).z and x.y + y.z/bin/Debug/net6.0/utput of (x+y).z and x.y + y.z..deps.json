@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "utput of (x+y).z and x.y + y.z./1.0.0": {
+        "runtime": {
+          "utput of (x+y).z and x.y + y.z..dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "utput of (x+y).z and x.y + y.z./1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

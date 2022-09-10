@@ -1,0 +1,15 @@
+C:\HomeWork Csharp Operants\numberInrowfourtimes\bin\Debug\net6.0\numberInrowfourtimes.exe
+C:\HomeWork Csharp Operants\numberInrowfourtimes\bin\Debug\net6.0\numberInrowfourtimes.deps.json
+C:\HomeWork Csharp Operants\numberInrowfourtimes\bin\Debug\net6.0\numberInrowfourtimes.runtimeconfig.json
+C:\HomeWork Csharp Operants\numberInrowfourtimes\bin\Debug\net6.0\numberInrowfourtimes.dll
+C:\HomeWork Csharp Operants\numberInrowfourtimes\bin\Debug\net6.0\numberInrowfourtimes.pdb
+C:\HomeWork Csharp Operants\numberInrowfourtimes\obj\Debug\net6.0\numberInrowfourtimes.csproj.AssemblyReference.cache
+C:\HomeWork Csharp Operants\numberInrowfourtimes\obj\Debug\net6.0\numberInrowfourtimes.GeneratedMSBuildEditorConfig.editorconfig
+C:\HomeWork Csharp Operants\numberInrowfourtimes\obj\Debug\net6.0\numberInrowfourtimes.AssemblyInfoInputs.cache
+C:\HomeWork Csharp Operants\numberInrowfourtimes\obj\Debug\net6.0\numberInrowfourtimes.AssemblyInfo.cs
+C:\HomeWork Csharp Operants\numberInrowfourtimes\obj\Debug\net6.0\numberInrowfourtimes.csproj.CoreCompileInputs.cache
+C:\HomeWork Csharp Operants\numberInrowfourtimes\obj\Debug\net6.0\numberInrowfourtimes.dll
+C:\HomeWork Csharp Operants\numberInrowfourtimes\obj\Debug\net6.0\refint\numberInrowfourtimes.dll
+C:\HomeWork Csharp Operants\numberInrowfourtimes\obj\Debug\net6.0\numberInrowfourtimes.pdb
+C:\HomeWork Csharp Operants\numberInrowfourtimes\obj\Debug\net6.0\numberInrowfourtimes.genruntimeconfig.cache
+C:\HomeWork Csharp Operants\numberInrowfourtimes\obj\Debug\net6.0\ref\numberInrowfourtimes.dll
